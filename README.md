@@ -1,2 +1,4 @@
 # Membuat-Tabel-Kode-ASCII
-Tugas Pak Bana Handaga, Dr. Ir, M.T (12-09-2018)
+Tugas SISTEM MANAJEMEN BASISDATA
+Dosen : Pak Bana Handaga, Dr. Ir, M.T 
+Tanggal : (12-09-2018)
